@@ -1,0 +1,26 @@
+name: Generar Release
+
+on:
+  push:
+    branches:
+      - main  # Cambia esto si usas otra rama
+
+jobs:
+  release:
+    name: Crear nuevo Release
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout del repositorio
+      uses: actions/checkout@v4
+
+    - name: Crear tag y release automático
+      uses: softprops/action-gh-release@v1
+      with:
+        tag_name: v1.${{ github.run_number }}
+        name: Release v1.${{ github.run_number }}
+        body: |
+          🚀 Nueva versión generada automáticamente.
+          - Commit: ${{ github.sha }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
