@@ -17,7 +17,7 @@ Poma Machicado, Fabiola Estefani (2021070030) Tapia Vargas, Dylan Yariet (202107
 
 **Tacna – Perú *2025*** 
 
-![](/IMG/.Words.2e7ccb51-cc74-4fe5-ae33-c6070a1db31b.002.png) ![ref2]
+![](/IMG/Aspose.Words.2e7ccb51-cc74-4fe5-ae33-c6070a1db31b.002.png) ![ref2]
 |CONTROL DE VERSIONES ||||||
 | - | :- | :- | :- | :- | :- |
 |Versión |Hecha por |Revisada por |Aprobada por |Fecha |Motivo |
@@ -285,5 +285,5 @@ Seguridad:
     Sharda, R., Delen, D., & Turban, E. (2020). *Analytics, Data Science, & Artificial Intelligence: Systems for Decision Support* (11th ed.). Pearson Education. 
 11 
 
-[ref1]: /IMG/Aspose.Words.2e7ccb51-cc74-4fe5-ae33-c6070a1db31b.001.png
-[ref2]: /IMG/.Words.2e7ccb51-cc74-4fe5-ae33-c6070a1db31b.003.png
+[ref1]: /IMGAsposeAspose.Words.2e7ccb51-cc74-4fe5-ae33-c6070a1db31b.001.png
+[ref2]: /IMG/Aspose.Words.2e7ccb51-cc74-4fe5-ae33-c6070a1db31b.003.png
